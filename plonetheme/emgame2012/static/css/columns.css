@@ -1,0 +1,36 @@
+/*total width: 956px.*/
+div.row {
+  float: left;
+  width: 100%;
+  display: block;
+  position: relative;
+}
+div.cell {
+  position: relative;
+  float: left;
+  left: 100%;
+}
+div.width-1 { width:58px; }
+div.width-2 { width:136px; }
+div.width-3 { width:214px; }
+div.width-4 { width:292px; }
+div.width-5 { width:370px; }
+div.width-6 { width:448px; }
+div.width-7 { width:526px; }
+div.width-8 { width:604px; }
+div.width-9 { width:682px; }
+div.width-10 { width:760px; }
+div.width-11 { width:838px; }
+div.width-12 { width:916px; }
+div.position-0  { margin-left:-936px; }
+div.position-1  { margin-left:-858px; }
+div.position-2  { margin-left:-780px; }
+div.position-3  { margin-left:-702px; }
+div.position-4  { margin-left:-624px; }
+div.position-5  { margin-left:-546px; }
+div.position-6  { margin-left:-468px; }
+div.position-7  { margin-left:-390px; }
+div.position-8  { margin-left:-312px; }
+div.position-9  { margin-left:-234px; }
+div.position-10  { margin-left:-156px; }
+div.position-11  { margin-left:-78px; }
