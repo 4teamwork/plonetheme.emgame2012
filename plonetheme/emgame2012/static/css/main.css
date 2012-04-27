@@ -1305,6 +1305,48 @@ table.controlpanel-listing th.smallcolumn {
 
 /* @end */
 
+/* @group EM-Game */
+
+.template-edit_team #columns {
+    background: transparent url(../images/football_field.png) no-repeat center 100px;
+    height: 700px;
+}
+
+.strikersRow,
+.midfield2Row,
+.midfield1Row,
+.defenderRow,
+.keeperRow {
+    clear: left;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+
+.strikersRow { width: 560px; }
+.midfield2Row { width: 840px }
+.midfield1Row { width: 560px; }
+.defenderRow { width: 840px; }
+.keeperRow { width: 280px; }
+
+.strikersRow .field,
+.midfield1Row .field,
+.defenderRow .field {
+    padding-bottom: 100px;
+}
+
+#starters .field,
+#substitutes .field {
+    width: 280px;
+    float: left;
+    clear: none;
+}
+.players {
+    width: 100%;
+}
+
+/* @end */
+
 /* @group Invisibles */
 
 .hiddenStructure {
