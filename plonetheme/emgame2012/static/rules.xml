@@ -47,8 +47,8 @@
 
         <!-- Remove sidebar, make content wider when there are no portlets -->
         <rules if-content="not(//*[@id='portal-column-two'])">
-            <prepend css:theme="#content-wrapper">
-                <xsl:attribute name="class">cell position-2 width-14</xsl:attribute>
+            <prepend css:theme="#content">
+                <xsl:attribute name="class">cell position-0 width-12</xsl:attribute>
             </prepend>
             <drop css:theme="#sidebar" />
         </rules>
