@@ -29,4 +29,9 @@
         expression="request/HTTP_X_THEME_ENABLED | nothing"
         applyPrefix="True" />
 
+    <stylesheet id="++theme++plonetheme.emgame2012/css/chosen.css"
+        expression="request/HTTP_X_THEME_ENABLED | nothing"
+        applyPrefix="True" />
+
+
 </object>
