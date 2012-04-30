@@ -1308,9 +1308,30 @@ table.controlpanel-listing th.smallcolumn {
 /* @group EM-Game */
 
 .template-edit_team #columns {
-    background: transparent url(../images/football_field.png) no-repeat center 100px;
-    height: 700px;
+    background: transparent url(../images/football_field.png) no-repeat center 110px;
 }
+.template-edit_team #plone-document-byline {
+    display: none;
+}
+#starters,
+#substitutes {
+    padding-top: 50px;
+}
+#starters .field,
+#substitutes .field {
+    width: 280px;
+    float: left;
+    clear: none;
+}
+#starters label,
+#substitutes label {
+    display: none;
+}
+#starters select,
+#substitutes select {
+    display: none;
+}
+
 
 .strikersRow,
 .midfield2Row,
@@ -1329,20 +1350,28 @@ table.controlpanel-listing th.smallcolumn {
 .defenderRow { width: 840px; }
 .keeperRow { width: 280px; }
 
-.strikersRow .field,
+.strikersRow .field {
+    padding-bottom: 70px;
+}
 .midfield1Row .field,
 .defenderRow .field {
     padding-bottom: 100px;
 }
-
+.midfield2Row .field {
+    padding-bottom: 20px;
+}
+.keeperRow .field {
+    padding-bottom: 120px;
+}
 #starters .field,
 #substitutes .field {
     width: 280px;
     float: left;
     clear: none;
 }
-.players {
-    width: 100%;
+#starters label,
+#substitutes label {
+    display: none;
 }
 
 /* @end */
