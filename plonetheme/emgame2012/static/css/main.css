@@ -1376,6 +1376,19 @@ table.controlpanel-listing th.smallcolumn {
 
 /* @end */
 
+/* @group Ploneboard */
+
+.portaltype-ploneboardforum .link-parent,
+.portaltype-ploneboardforum .poweredBy,
+.portaltype-ploneboardforum .documentFirstHeading img,
+.portaltype-ploneboardconversation .link-parent,
+.portaltype-ploneboardconversation .poweredBy,
+.portaltype-ploneboardconversation .documentFirstHeading img {
+    display: none;
+}
+
+/* @end */
+
 /* @group Invisibles */
 
 .hiddenStructure {
