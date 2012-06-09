@@ -1425,6 +1425,12 @@ table.controlpanel-listing th.smallcolumn {
     display: none;
 }
 
+.tabbedview_search {
+    display: none;
+}
+.tabbedview-tabs {
+    padding-top: 1em;
+}
 /* @end */
 
 /* @group Ploneboard */
