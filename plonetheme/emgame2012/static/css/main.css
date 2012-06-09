@@ -1431,6 +1431,9 @@ table.controlpanel-listing th.smallcolumn {
 .tabbedview-tabs {
     padding-top: 1em;
 }
+.ranking {
+    padding-top: 0.5em;
+}
 /* @end */
 
 /* @group Ploneboard */
