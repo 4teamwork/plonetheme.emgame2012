@@ -17,7 +17,7 @@ setup(name='plonetheme.emgame2012',
         ],
 
       keywords='plone theme emgame2012',
-      author='4teamwork GmbH',
+      author='4teamwork AG',
       author_email='mailto:info@4teamwork.ch',
       url='https://github.com/4teamwork/plonetheme.emgame2012',
       license='GPL2',
