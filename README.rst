@@ -22,9 +22,9 @@ Usage
 Links
 -----
 
-- Github project repository: https://github.com/4teamwork/plonetheme.emgame2012
-- Issue tracker: https://github.com/4teamwork/plonetheme.emgame2012/issues
-- Package on pypi: http://pypi.python.org/pypi/plonetheme.emgame2012
+- Github: https://github.com/4teamwork/plonetheme.emgame2012
+- Issues: https://github.com/4teamwork/plonetheme.emgame2012/issues
+- Pypi: http://pypi.python.org/pypi/plonetheme.emgame2012
 
 
 Copyright
